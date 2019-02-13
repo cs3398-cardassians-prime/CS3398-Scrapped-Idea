@@ -13,3 +13,6 @@ To improve the quality of life for students at texas state university for decade
 
 
 # Why is it special?
+This project is special since it is the first time the cardassians are working on an independent assignment together. 
+This assignment is also special since it can be used by the university to help new students and guests
+on where they can go to the restroom.  
